@@ -55,7 +55,6 @@ The University of Sydney,Sydney Medical School
 Temple University,Muenster University Hospital
 The State University of New Jersey Piscataway,University of Santiago de ChileSantiago
 Huazhong Agricultural University Wuhan,University of Idaho Moscow
-The First Affiliated Hospital of Shenzhen University Shenzhen,Graduate School of Guangzhou Medical UniversityShenzhen
 Sichuan University,Nankai University
 Sackler School of Medicine,Tel Aviv University
 Vanderbilt University School of Medicine,University of Miami Miller School of Medicine
@@ -70,7 +69,6 @@ Harvard University,Harvard Medical School
 Shanghai Jiao Tong University School of Medicine,Shanghai Jiao Tong University
 Washington University School of Medicine,Southern University of Science and Technology
 Stanford University,Shanghai Jiaotong University
-QiLu Normal University,Shandong University
 Jilin University,Hubei University of Technology
 Jilin University,University of Chinese Academy of Sciences
 Hubei University of Technology,University of Chinese Academy of Sciences
@@ -102,9 +100,7 @@ Johns Hopkins University School of Medicine,Massachusetts Institute of Technolog
 Zhejiang University,New York University
 Zhejiang University,Massachusetts Institute of Technology
 New York University,Massachusetts Institute of Technology
-Model Animal Research Center of Nanjing University,ShanghaiTech University
 Model Animal Research Center of Nanjing University,Yulin University
-ShanghaiTech University,Yulin University
 Hiroshima University,Tokyo Medical and Dental University
 Hanyang University,Seoul National University
 Stanford University,University of Utah School of Medicine
@@ -158,8 +154,6 @@ Tsinghua University,Tarim University
 Dalian Medical University,Tarim University
 Shanghai University,China Agricultural University
 Gifu University,Kyoto Prefectural University of Medicine
-Gifu University,United Graduate School of Drug Discovery and Medical Information Science
-Kyoto Prefectural University of Medicine,United Graduate School of Drug Discovery and Medical Information Science
 Johns Hopkins University School of Medicine,Arizona State University
 Johns Hopkins University School of Medicine,Massachusetts Institute of Technology
 Arizona State University,Massachusetts Institute of Technology
@@ -167,9 +161,7 @@ Stanford University,Iowa State University
 Fudan University,Second Military Medical University
 Fudan University,East China Normal University
 Second Military Medical University,East China Normal University
-Radboud University Medical Center,Massachusetts General Hospital and Harvard Medical School Department of Pathology
 Radboud University Medical Center,Utrecht University
-Massachusetts General Hospital and Harvard Medical School Department of Pathology,Utrecht University
 South China Agricultural University Guangzhou,Shanghai Jiao Tong University Shanghai
 School of Dental Medicine,Perelman School of Medicine
 Nanjing Medical University,Augusta University
@@ -209,8 +201,6 @@ The University of Tokyo,Keio University School of Medicine
 Graduate School of Frontier Biosciences,Tokushima University
 Graduate School of Frontier Biosciences,Osaka University
 Tokushima University,Osaka University
-UNC School of Medicine,Vanderbilt University
-UNC School of Medicine,Harvard Medical School
 Vanderbilt University,Harvard Medical School
 Northwestern University,Georgia Institute of Technology
 Korea University,Hanyang University
@@ -295,8 +285,6 @@ Jinan University,Monash University
 Huazhong University of Science and Technology,David Geffen School of Medicine
 Poznan University of Life Sciences,School of Life Sciences Weihenstephan
 King Saud University,Dalhousie University
-School,National Institutes of Health
-School,University of Massachusetts Medical
 National Institutes of Health,University of Massachusetts Medical
 The University of Hong Kong,University Medical Centre Utrecht
 The University of Hong Kong,The Chinese University of Hong Kong
@@ -346,8 +334,6 @@ Yunnan University,Purdue University
 Nanjing Agricultural University,Purdue University
 Zulfiqar Ali Bhutto Medical University,Huazhong Agricultural University
 Massachusetts Institute of Technology,Harvard Medical School
-Boston University,McGill University
-Stanford University,McMaster University
 Georgia State University,The University of North Carolina
 Harvard Medical School and Massachusetts General Hospital,School of Clinical Medicine
 Harvard Medical School and Massachusetts General Hospital,University College London
@@ -397,7 +383,6 @@ The Ohio State University,Emory University
 Duke University,Emory University
 Montana State University,North Carolina State University
 Shandong University,Shenzhen University 1stAffiliated Hospital
-Federico II University,National Institutes of Health
 Brigham Young University,Nevada Institute of Personalized Medicine and School of Life Sciences
 Third Military Medical University,Chongqing University
 Chalmers University of Technology,Technical University of Denmark
@@ -420,7 +405,6 @@ Arizona State University,Harvard University
 Vilnius University,Lithuanian University of Health Sciences
 Monash University,University of Western Australia
 Hanyang University,Seoul National University
-University Medical Centre,McGill University
 Stanford University School of Medicine,David Geffen School of Medicine
 Boston University and Boston Medical Center,Boston University School of Public Health
 Boston University and Boston Medical Center,Boston University School of Medicine
@@ -430,7 +414,6 @@ Hokkaido University Graduate School of Medicine,Columbia University
 University of British Columbia,National University of Singapore
 Massachusetts Institute of Technology,Harvard Medical School
 School of Chinese Medicine,Hong Kong Baptist University
-Nanjing University,ShanghaiTech University
 South China Agricultural University,Guangxi University
 Model Animal Research Center of Nanjing University,Peking University
 National Institutes of Health,The University of Tokyo
@@ -521,7 +504,6 @@ Justus Liebig University Giessen,Kansas State University
 Feinberg School of Medicine,Northwestern University
 Feinberg School of Medicine,Princeton University
 Northwestern University,Princeton University
-University of British Columbia,McMaster University
 University of Michigan Health System,Cornell University
 Keck School of Medicine,University of Southern California
 Keck School of Medicine,Second Military Medical University
@@ -558,7 +540,6 @@ Fudan University,School of Basic Medical Sciences
 Perelman School of Medicine,School of Basic Medical Sciences
 Kanazawa University,Graduate School of Medical Sciences
 Emory University School of Medicine,Emory University
-Shandong University,USA School of Environmental Science and Engineering
 Rice University,Georgia Institute of Technology
 Feinberg School of Medicine,Northwestern University
 Feinberg School of Medicine,Northwestern University
@@ -582,15 +563,11 @@ Hanyang University,Seoul National University
 Pennsylvania State University,University Park
 Duke University,Duke University Medical Center
 Nanjing Medical University,Model Animal Research Center of Nanjing University
-Nanjing Medical University,ShanghaiTech University
-Model Animal Research Center of Nanjing University,ShanghaiTech University
 Shinshu University,Kagoshima University
 Shinshu University,Graduate School of Medicine
 Kagoshima University,Graduate School of Medicine
 Massachusetts Institute of Technology,University of Hong Kong
 Harvard University,Massachusetts Institute of Technology
-RMIT University,University of Putra Malaysia
-RMIT University,Deakin University
 University of Putra Malaysia,Deakin University
 Osaka University,Kyoto University
 Osaka University,Graduate School of Medicine
@@ -686,8 +663,6 @@ Utrecht University,San Diego State University
 Federal University of Rio de Janeiro,San Diego State University
 Icahn School of Medicine at Mount Sinai,Harvard Medical School
 The State University of New Jersey,Dalhousie University
-The State University of New Jersey,Rutgers Cancer Institute of New Jersey and Robert Wood Johnson Medical School
-Dalhousie University,Rutgers Cancer Institute of New Jersey and Robert Wood Johnson Medical School
 National Institutes of Health,University of North Carolina
 Cardiff University,University Walk
 University Hospital Mannheim,Heidelberg University
@@ -772,7 +747,6 @@ University of British Columbia,Harvard Medical School
 University of Washington School of Medicine,Harvard University
 University of Washington School of Medicine,Harvard Medical School
 Harvard University,Harvard Medical School
-ShanghaiTech University,Seoul National University
 Temple University School of Medicine,Drexel University
 Wuhan University,Temple University
 Wuhan University,School of Basic Medical Sciences
@@ -785,8 +759,6 @@ Hiroshima University,Kyushu University
 Harvard Medical School,Massachusetts Institute of Technology
 Shanghai Ocean University,Huazhong Agricultural University
 Nanjing Medical University,Model Animal Research Center of Nanjing University
-Nanjing Medical University,ShanghaiTech University
-Model Animal Research Center of Nanjing University,ShanghaiTech University
 Jilin University,Nanjing University
 Zhejiang University,Harvard University
 Zhejiang University,Harvard Medical School
@@ -807,7 +779,6 @@ Chosun University,Hanyang University
 Sungkyunkwan University School of Medicine,Hanyang University
 National Institutes of Health,Dankook University
 Aarhus University Hospital,Aarhus University
-Third Military Medical University,ShanghaiTech University
 Uppsala University,National Institutes of Health
 Yonsei University,Brandeis University
 Yonsei University,Hanyang University
@@ -872,9 +843,7 @@ Hokkaido University Graduate School of Medicine,Graduate School of Medical Scien
 Kyushu University,Graduate School of Medical Sciences
 Hanyang University,Seoul National University
 Qingdao University,Shihezi University
-Model Animal Research Center of Nanjing University,ShanghaiTech University
 Model Animal Research Center of Nanjing University,Yulin University
-ShanghaiTech University,Yulin University
 Harvard Medical School,Harvard University
 Harvard Medical School,Massachusetts Institute of Technology
 Harvard University,Massachusetts Institute of Technology
@@ -937,8 +906,6 @@ Yonsei University College of Medicine,Seoul National University
 Tsinghua University,Stanford University
 Guangxi University,Zhejiang University
 Jeju National University,Chonnam National University
-Jeju National University,KonKuk University
-Chonnam National University,KonKuk University
 Texas Tech University Health Sciences Center,Cornell University
 Massachusetts Institute of Technology,Harvard Medical School
 National Institutes of Health,Massachusetts Institute of Technology
@@ -998,7 +965,6 @@ Harvard Medical School,Harvard University
 Harvard Medical School,Fudan University
 Harvard University,Fudan University
 Yale University,California Institute of Technology
-National Institutes of Health,ShanghaiTech University
 Juntendo University,Tohoku University
 Wageningen University,Ulm University
 Wageningen University,University Medical Center
@@ -1066,16 +1032,12 @@ Yokohama City University School of Medicine,Kitasato University
 Hiroshima University,Kwansei Gakuin University
 Hiroshima University,Kitasato University
 Kwansei Gakuin University,Kitasato University
-McGill University,Massachusetts Institute of Technology
-McGill University,Seoul National University
-McGill University,University Medical Center
-McGill University,University of Utah School of Medicine
-Massachusetts Institute of Technology,Seoul National University
 Massachusetts Institute of Technology,University Medical Center
+Massachusetts Institute of Technology,Seoul National University
 Massachusetts Institute of Technology,University of Utah School of Medicine
-Seoul National University,University Medical Center
-Seoul National University,University of Utah School of Medicine
+University Medical Center,Seoul National University
 University Medical Center,University of Utah School of Medicine
+Seoul National University,University of Utah School of Medicine
 Istanbul University,Julius Maximilian University of Wurzburg
 Istanbul University,Policlinico Tor Vergata University Hospital
 Julius Maximilian University of Wurzburg,Policlinico Tor Vergata University Hospital
@@ -1126,10 +1088,7 @@ Danish Technical University,University Hospital of North Norway
 University Medical Center Utrecht,University Hospital of North Norway
 SUNY Upstate Medical University,National Institutes of Health
 SUNY Upstate Medical University,Laval University
-SUNY Upstate Medical University,McGill University
 National Institutes of Health,Laval University
-National Institutes of Health,McGill University
-Laval University,McGill University
 Uppsala University,Lund University
 National University of Singapore,University of California San Diego
 Sackler School of Medicine,Tel Aviv University
@@ -1153,15 +1112,11 @@ Vanderbilt University School of Medicine,Vanderbilt University
 National Institutes of Health,Vanderbilt University
 Duke University,Duke University Medical Center
 Duke University,Duke University Medical Center
-Shanghai University of Traditional Chinese Medicine,ShanghaiTech University
 Shanghai University of Traditional Chinese Medicine,University of Chinese Academy of Sciences
-ShanghaiTech University,University of Chinese Academy of Sciences
 Suzhou Hospital Affiliated to Nanjing Medical University,David Geffen School of Medicine
 Nanjing Normal University,University Park
 Nanjing Normal University,The Pennsylvania State University
 University Park,The Pennsylvania State University
-McGill University,Harvard University
-McGill University,Harvard Medical School
 Harvard University,Harvard Medical School
 Kyushu University,Hokkaido University
 National Institutes of Health,Harvard Medical School
@@ -1290,11 +1245,8 @@ Harvard University,Harvard Medical School
 Kyoto University,Graduate School of Medicine
 Stanford University,Washington University School of Medicine
 Harvard University,Harvard Medical School
-University Park,USA Northern Arizona University
 University Park,Illinois Institute of Technology
 University Park,The Pennsylvania State University
-USA Northern Arizona University,Illinois Institute of Technology
-USA Northern Arizona University,The Pennsylvania State University
 Illinois Institute of Technology,The Pennsylvania State University
 Chicago Medical School,Rosalind Franklin University of Medicine and Science
 Cairo University,North Carolina State University
@@ -1427,8 +1379,6 @@ Hunan Normal University,Northeast Agricultural University of China
 Nanjing Medical University,Northeast Agricultural University of China
 Emory University School of Medicine,Emory University
 University of California at Los Angeles,David Geffen School of Medicine
-USA and Hannover Medical School,National Institutes of Health
-USA and Hannover Medical School,Umea University
 National Institutes of Health,Umea University
 University Park,The Pennsylvania State University
 University Park,The Pennsylvania State University
@@ -1452,5 +1402,4 @@ Pennsylvania State University,University Park
 Sackler School of Medicine,Tel Aviv University
 University Park,The Pennsylvania State University
 University Park,The Pennsylvania State University
-Cornell University,School of Chemical and Biomolecular Engineering Department of Microbiology Macromolecular Diffraction Facility at CHESS Department of Molecular Biology and Genetics Department of Biomedical Engineering
 Sackler School of Medicine,Tel Aviv University
